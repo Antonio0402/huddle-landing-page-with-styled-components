@@ -4,7 +4,7 @@ function Card({content}) {
   return (
     <StyledCard isReverse={content.id % 2 !== 0 && 'row-reverse'}>
       <div>
-        <img src={'./src/assets/images/' + content.image} alt={content.image} />
+        <img src={'./assets/images/' + content.image} alt={content.image} />
       </div>
       <div>
         <h3>{content.heading}</h3>
