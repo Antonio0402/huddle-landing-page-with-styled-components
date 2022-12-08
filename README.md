@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://github.com/Antonio0402/huddle-landing-page-with-styled-components)
-- Live Site URL: [Click here](https://huddle-landing-page-styled-components.netlify.app/)
+- Live Site URL: [Click here](https://huddle-landing-page-styled-components.netlify.app)
 
 ## My process
 
